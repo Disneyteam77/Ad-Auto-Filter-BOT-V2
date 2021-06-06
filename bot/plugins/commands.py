@@ -89,8 +89,8 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/doreamonfans1'),
-        InlineKeyboardButton('Devloper 2', url ='https://t.me/doreamonfans2')
+        InlineKeyboardButton('👨‍💻Developer👨‍💻', url='https://t.me/doreamonfans1'),
+        InlineKeyboardButton('👨‍🔧updates channel👨‍🔧', url ='https://t.me/disneygrou')
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/disneyteamchat')
     ],[
